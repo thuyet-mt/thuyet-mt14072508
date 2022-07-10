@@ -2,7 +2,7 @@
 - 👀 I’m interested in embedded system
 - 🌱 I’m currently learning embedded system
 - 💞️ I’m looking to collaborate on with all people having the same passion with me
-- 📫 How to reach me: 
+- 📫 How to reach me: https://www.facebook.com/thuyet.mai.14072001/
 
 <!---
 thuyet-mt14072508/thuyet-mt14072508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
